@@ -1,7 +1,8 @@
 # Facial and oral temperature data from a large set of human subject volunteers
 
 Quanzeng Wang 1,*, Yangling Zhou 1,2, Pejman Ghassemi 1, Dwith Chenna 1,3, Michelle Chen 1,4 , Jon P. Casamento 1, T. Joshua Pfefer 1 , and David McBride 5 1 Center for Devices and Radiological Health, Food and Drug Administration, Silver Spring, MD 20993, USA; zenobiachow@gmail.com (Y.Z.); Pejman.Ghassemi@fda.hhs.gov (P.G.); cyndwith@gmail.com (Y.N.D.C); michen721@gmail.com (M.C.); jon.casamento@gmail.com (J.P.C.); Joshua.Pfefer@fda.hhs.gov (T.J.P.) 2 Department of Mechanical Engineering, University of Maryland, Baltimore County, Baltimore, MD 21250, USA 3 Department of Electrical and Computer Engineering, University of Maryland, College Park, MD 20740, USA 4 Department of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, MD 21218, USA 5 University Health Center, University of Maryland, College Park, MD 20742, USA; drmcb2595@gmail.com (D.M.)
-Correspondence: quanzeng.wang@fda.hhs.gov
+
+*Correspondence: quanzeng.wang@fda.hhs.gov
 
 Abstract
 
