@@ -32,14 +32,28 @@ The authors have no conflicts of interest to declare.
 References
 
 ISO. ISO/TR 13154: Medical electrical equipment — Deployment, implementation and operational guidelines for identifying febrile humans using a screening thermograph. Geneva, Switzerland: International Organization for Standardization; 2017.
+
 Zhou Y, Ghassemi P, Chen M, McBride D, Casamento JP, Pfefer TJ, et al. Clinical evaluation of fever-screening thermography: impact of consensus guidelines and facial measurement location. Journal of Biomedical Optics. 2020;25(9):097002.
+
 Wang Q, Zhou Y, Ghassemi P, McBride D, Casamento JP, Pfefer TJ. Infrared Thermography for Measuring Elevated Body Temperature: Clinical Accuracy, Calibration, and Evaluation. Sensors. 2022;22:215.
+
 Ghassemi P, Pfefer TJ, Casamento JP, Simpson R, Wang Q. Best practices for standardized performance testing of infrared thermographs intended for fever screening. PLoS ONE. 2018;13(9):e0203302.
+
 Dwith Chenna YN, Ghassemi P, Pfefer TJ, Casamento J, Wang Q. Free-Form Deformation Approach for Registration of Visible and Infrared Facial Images in Fever Screening. Sensors. 2018;18(1):125.
 
 Topics
 
-thermography thermometry infrared thermograph elevated body temperature fever screening clinical accuracy infectious disease epidemics inner canthus facial maximum temperatures receiver operating characteristic (ROC) curve Pearson correlation coefficients
+thermography
+thermometry 
+infrared thermograph 
+elevated body temperature 
+fever screening 
+clinical accuracy 
+infectious disease epidemics 
+inner canthus 
+facial maximum temperatures 
+receiver operating characteristic (ROC) curve 
+Pearson correlation coefficients
 
 Ethics Statement
 
