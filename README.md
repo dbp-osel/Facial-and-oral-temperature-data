@@ -43,17 +43,7 @@ Dwith Chenna YN, Ghassemi P, Pfefer TJ, Casamento J, Wang Q. Free-Form Deformati
 
 Topics
 
-thermography
-thermometry 
-infrared thermograph 
-elevated body temperature 
-fever screening 
-clinical accuracy 
-infectious disease epidemics 
-inner canthus 
-facial maximum temperatures 
-receiver operating characteristic (ROC) curve 
-Pearson correlation coefficients
+thermography, thermometry, infrared thermograph, elevated body temperature, fever screening, clinical accuracy, infectious disease epidemics, inner canthus, facial maximum temperatures, receiver operating characteristic (ROC) curve, Pearson correlation coefficients
 
 Ethics Statement
 
