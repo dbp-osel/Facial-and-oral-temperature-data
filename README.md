@@ -25,6 +25,12 @@ Usage Notes
 
 We are not aware of any other publicly available IRT study database. This database holds significant potential value for both academic and industrial researchers. It enables analysis of correlation coefficients between temperature values at various body sites, as measured by different devices. Additionally, researchers can evaluate the impact of different parameters such as gender, age, ethnicity, and ambient temperature. By releasing this database, we aim to contribute to the advancement of effective thermal imaging systems, thereby enhancing public health in standard clinical applications and future pandemics. Acknowledgements The research was funded by the U.S. Food and Drug Administration’s Medical Countermeasures Initiative (MCMi) Regulatory Science Program (Fund# 16ECDRH407). This project was supported in part by an appointment to the Research Participation Program at the Center for Devices and Radiological Health, U.S. Food and Drug Administration, administered by the Oak Ridge Institute for Science and Education through an interagency agreement between the U.S. Department of Energy and FDA. The authors gratefully acknowledge the University Health Center of the University of Maryland at College Park for their outstanding collaboration with the research team; Peter Tan, Monica Chu, Peter Chin, Pooneh Azadikhah, Oluwatobi Fagbohun, Shira Winston, Jacqueline Dempsey, Muzammil Quadir, Madison Varvaris, and Raqel Pryor for their assistance with data collection; Dr. Stacey Sullivan, who helped with the oral thermometer evaluation and operation manual preparation; Ms. Jean Rinaldi, who helped to prepare the clinical study protocol and recruitment documents.
 
+Tool Reference
+
+•	RST Reference Number: RST24MD21.01
+•	Date of Publication: 10/16/2025
+•	Recommended Citation: U.S. Food and Drug Administration. (2025). Dataset of Infrared Facial and Oral Temperatures from Human Volunteers (RST24MD21.01). https://cdrh-rst.fda.gov/dataset-infrared-facial-and-oral-temperatures-human-volunteers
+
 Conflicts Of Interest
 
 The authors have no conflicts of interest to declare.
