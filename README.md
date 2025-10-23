@@ -28,7 +28,9 @@ We are not aware of any other publicly available IRT study database. This databa
 Tool Reference
 
 •	RST Reference Number: RST24MD21.01
+
 •	Date of Publication: 10/16/2025
+
 •	Recommended Citation: U.S. Food and Drug Administration. (2025). Dataset of Infrared Facial and Oral Temperatures from Human Volunteers (RST24MD21.01). https://cdrh-rst.fda.gov/dataset-infrared-facial-and-oral-temperatures-human-volunteers
 
 Conflicts Of Interest
